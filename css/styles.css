@@ -74,6 +74,7 @@ ul {
 
 .relative.nav-link {
     position: relative;
+    color: #404bbf;
 }
 .nav-link {
     color: #404bbf;
@@ -460,6 +461,8 @@ margin: 0;
     justify-content: flex-start;
     margin: 0;
     padding: 0;
+    margin-right: 120px;
+     
 }
 
 
